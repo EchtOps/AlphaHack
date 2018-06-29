@@ -17,7 +17,7 @@ $ `commandname --help`
 or 
 Google/StackOf (or whats your best way)  
 
-If you have any feedback/bug , just join us @ [RocketChat](https://chat/prolitus.org) (Channel: [#GamerChain](https://chat.prolitus.org/channel/gamerchain))
+If you have any feedback/bug , just join us @ [RocketChat](https://chat.prolitus.org) (Channel: [#GamerChain](https://chat.prolitus.org/channel/gamerchain))
 
 ### Starting Game
 

@@ -1,6 +1,6 @@
 ### Start With
 `ssh walkman1@alphahack.chainchef.com -p 222`   
-Password = walkman1
+Password => `walkman1`
 
 ### Level Goal
 Register Yourself by => `./register`

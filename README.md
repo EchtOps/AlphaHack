@@ -21,6 +21,4 @@ If you have any feedback/bug , just join us @ [RocketChat](https://chat.prolitus
 
 As said above , from each session, you will find the password for next user.
 
-`ssh walkman1@alphahack.chainchef.com -p 222`
-
 Start the Game From **[Level1](/Levels/Level.1->2.md)**

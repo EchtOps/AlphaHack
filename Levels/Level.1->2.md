@@ -3,6 +3,7 @@
 Password = walkman1
 
 ### Level Goal
+Register Yourself by => `./register`
 Find the password for user `walkman2`. Obviously its in home directory.
 
 ### Commands Which May Help

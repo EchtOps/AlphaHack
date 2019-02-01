@@ -3,7 +3,7 @@
 
 ### Level Goal
 Password for `walkman13` is encrypted with `aes-128-cbc` cipher   
-encryption pass:`s*f*cl*` (You better know how to complete this string)
+encryption pass:`sofocle` (You better know how to complete this string)
 
 ### Commands Which May Help
 openssl,cat

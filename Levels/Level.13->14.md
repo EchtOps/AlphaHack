@@ -2,7 +2,7 @@
 `ssh walkman13@alphahack.chainchef.com -p 222`   
 
 ### Level Goal
-Password for `walkman14` is inside the `City` of `Address` = "`S*f*cl* T*chn*l*g**s`" (Hope you can complete the string)
+Password for `walkman14` is inside the `City` of `Address` = "`Sofocle Technologies`" (Hope you can complete the string)
 
 ### Commands Which May Help
 mysql,cat
